@@ -1,0 +1,47 @@
+_repo: Historical-Miniatures_7955
+_version: 0.0.1
+alternative_title: Historiska miniatyrer. English
+contributor:
+  translator:
+    agent_name: Field, Claud
+    alias: Field, Claud Herbert Alwyn
+    birthdate: 1863
+    deathdate: 1941
+    gutenberg_agent_id: '26394'
+    url: http://www.gutenberg.org/2009/agents/26394
+creator:
+  author:
+    agent_name: Strindberg, August
+    alias: Strindberg, Johan August
+    birthdate: 1849
+    deathdate: 1912
+    gutenberg_agent_id: '1609'
+    url: http://www.gutenberg.org/2009/agents/1609
+    wikipedia: http://en.wikipedia.org/wiki/August_Strindberg
+description: Title; Contents; Preface; The Egyptian Bondage; The Hemicycle of Athens;
+  Alcibiades; Socrates; Flaccus and Maro; Leontopolis; The Lamb; The Wild Beast; The
+  Apostate; Attila; The Servant of Servants; Ishmael; Eginhard to Emma; The Close
+  of the First Millennium; Peter the Hermit; Laocoon; The Instrument; Old Merry England;
+  The White Mountain; The Great Czar; The Seven Good Years; Days of Judgment; Strindberg's
+  Death-Bed; Endnotes.
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7955'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Manners and customs -- Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PT'
+- GITenberg
+tableOfContents: The Egyptian bondage -- The hemicycle of Athens -- Alcibiades --
+  Socrates -- Flaccus and Maro -- Leontopolis -- The lamb -- The wild beast -- The
+  apostate -- Attila -- The servant of servants -- Ishmael -- Eginhard to Emma --
+  The close of the first millennium -- Peter the Hermit -- Laocoon -- The instrument
+  -- Old merry England -- The White Mountain -- The great Czar -- The seven good years
+  -- Days of judgment -- Strindberg's death-bed.
+title: Historical Miniatures
+url: http://www.gutenberg.org/ebooks/7955
