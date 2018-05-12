@@ -1,5 +1,5 @@
 _repo: Historical-Miniatures_7955
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Historiska miniatyrer. English
 contributor:
   translator:
@@ -9,6 +9,9 @@ contributor:
     deathdate: 1941
     gutenberg_agent_id: '26394'
     url: http://www.gutenberg.org/2009/agents/26394
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Strindberg, August
@@ -24,6 +27,8 @@ description: Title; Contents; Preface; The Egyptian Bondage; The Hemicycle of At
   of the First Millennium; Peter the Hermit; Laocoon; The Instrument; Old Merry England;
   The White Mountain; The Great Czar; The Seven Good Years; Days of Judgment; Strindberg's
   Death-Bed; Endnotes.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7955#Historical-Miniatures
 gutenberg_issued: '2005-04-01'
 gutenberg_type: Text
 identifiers:
